@@ -10,6 +10,8 @@
 - 😄 Gosto de apreder e estudar novas tecnologias
 - ⚡ Todos os meus projetos estão disponíveis aqui no GitHub
 
+## 🚀 Skills
+
 #### Linguagens
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,8 +66,6 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerodrigues680&layout=compact)](https://github.com/guilhermerodrigues680)
 -->
-
----
 
 <!--
 **guilhermerodrigues680/guilhermerodrigues680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
