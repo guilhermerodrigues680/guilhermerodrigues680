@@ -1,4 +1,4 @@
-<h1><img src="./hi.gif" width="30px">Olá, sou o Guilherme Rodrigues, Desenvolvedor Full Stack</h1>
+<h1><img src="./hi.gif" width="30px">Olá, sou Guilherme Rodrigues, Desenvolvedor Full Stack</h1>
 
 [![Linkedin: Guilherme Rodrigues](https://img.shields.io/badge/-Guilherme%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-r-54380b106/)](https://www.linkedin.com/in/guilherme-r-54380b106/)
 
