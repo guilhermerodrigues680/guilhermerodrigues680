@@ -8,8 +8,8 @@
 
 - 🔭 Desenvolvedor e amante de programação
 - 😄 Gosto de apreder e estudar novas tecnologias
-- ⚡ Todos os meus projetos estão disponíveis aqui no GitHub 
-[![](https://img.shields.io/badge/guilhermerodrigues680-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermerodrigues680)
+- ⚡ Todos os meus projetos estão disponíveis aqui no GitHub
+
 #### Linguagens
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
