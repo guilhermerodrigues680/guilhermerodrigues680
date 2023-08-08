@@ -111,6 +111,12 @@
 
 ![](https://img.shields.io/badge/Figma-A35CFB?style=for-the-badge&logo=figma&logoColor=white)
 
+### Hardware e IoT
+
+![](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge)
+
 ## Estatísticas
 
 ![Guilherme Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermerodrigues680&show_icons=true&count_private=true)
